@@ -7,3 +7,5 @@ salary: 540000
 emp_id: dlh0003
 salary: 490000
 
+salary: 490000
+salary: 490000
